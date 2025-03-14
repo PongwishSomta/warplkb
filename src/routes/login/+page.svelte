@@ -27,7 +27,7 @@
     />
   </div>
   <div class="text-right">
-    <a href="/forgot-password" class="text-zinc-300 text-xs underline">
+    <a href="/forgot-password" class="text-zinc-400 text-xs hover:underline">
       ลืมรหัสผ่าน?
     </a>
   </div>
@@ -37,7 +37,7 @@
   >
     <p>เข้าสู่ระบบ</p>
   </Button>
-  <p class="text-zinc-300 text-xs text-center">
+  <p class="text-zinc-400 text-xs text-center">
     ยังไม่มีบัญชี <a href="/register" class="underline">สมัครสมาชิก</a>
   </p>
   <div class="flex gap-2 items-center">
